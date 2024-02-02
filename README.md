@@ -1,5 +1,5 @@
 # Stephen Alabi's SQL Portifolio 
-SQL is an indispensable tool for data scientists, enabling them to access and manipulate data from diverse sources. 
+SQL is an indispensable tool for data analyst, enabling them to access and manipulate data from diverse sources. 
 
 ## Highlighted Project
 
